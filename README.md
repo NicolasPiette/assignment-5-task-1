@@ -9,6 +9,7 @@ This repository was created for a Git assignment
 - Demonstrates cloning
 - Demonstrates push and pull
 
-![Linux Logo](https://upload.wikipedia.org/wikipedia/commons/a/af/Tux.png)
+![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 [Visit Github](https://github.com)
+
